@@ -30,19 +30,19 @@ Alcune operazioni eseguite durante il processo di pulizia dei dati:
 ## Visualizations (Power BI) / Visualizzazioni (Power BI)
 
 ### 1. Film Distribution by Year /  Distribuzione dei Film per Anno
-![Distribution of Films by Year](plots/distribution_of_films_by_year.png)
+![Distribution of Films by Year](Netflix/plots/distribution_of_films_by_year.png)
 
 ### 2. Percentage Distribution by Year / Distribuzione Percentuale per Anno
-![Distribution Percentage by Year](plots/distribution_percentage_by_year.png)
+![Distribution Percentage by Year](Netflix/plots/distribution_percentage_by_year.png)
 
 ### 3. Filterable Movie List /  Elenco Film Filtrabile
-![List of Movies with Filters](plots/list_of_movies_with_filters.png)
+![List of Movies with Filters](Netflix/plots/list_of_movies_with_filters.png)
 
 ### 4. Relation Between IMDb Scores and Votes /  Relazione tra Punteggi IMDb e Eoti
-![Relation Between IMDb Scores and Votes](plots/relation_IMDb_scores_and_votes.png)
+![Relation Between IMDb Scores and Votes](Netflix/plots/relation_IMDb_scores_and_votes.png)
 
 ### 5. Trend Analysis / Analisi delle Tendenze
-![Trend Analysis](plots/trend_analysis.png)
+![Trend Analysis](Netflix/plots/trend_analysis.png)
 
 > 📌All visualizations were made on Power BI and the .pbix file was added to the repo.
 
