@@ -30,7 +30,7 @@ Alcune operazioni eseguite durante il processo di pulizia dei dati:
 ## Visualizations (Power BI) / Visualizzazioni (Power BI)
 
 ### 1. Film Distribution by Year /  Distribuzione dei Film per Anno
-![Distribution of Films by Year](Netflix/plots/distribution_of_films_by_year.png)
+![Distribution of Films by Year](Netflix/plots/disturbution_of_films_by_year.png)
 
 ### 2. Percentage Distribution by Year / Distribuzione Percentuale per Anno
 ![Distribution Percentage by Year](Netflix/plots/distribution_percentage_by_year.png)
