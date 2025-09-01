@@ -33,7 +33,7 @@ Alcune operazioni eseguite durante il processo di pulizia dei dati:
 ![Distribution of Films by Year](Netflix/plots/disturbution_of_films_by_year.png)
 
 ### 2. Percentage Distribution by Year / Distribuzione Percentuale per Anno
-![Distribution Percentage by Year](Netflix/plots/distribution_percentage_by_year.png)
+![Distribution Percentage by Year](Netflix/plots/disturbution_percentage_by_year.png)
 
 ### 3. Filterable Movie List /  Elenco Film Filtrabile
 ![List of Movies with Filters](Netflix/plots/list_of_movies_with_filters.png)
